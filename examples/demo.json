@@ -1,0 +1,17 @@
+{
+  "ticks_per_turn": 4096,
+  "samples": [
+    {
+      "raw_ticks": 100,
+      "reference_radians": 0
+    },
+    {
+      "raw_ticks": 1124,
+      "reference_radians": -1.5707963267948966
+    },
+    {
+      "raw_ticks": 2148,
+      "reference_radians": -3.141592653589793
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "joint-calibration-sign-lab"
+version = "0.1.0a1"
+description = "FR: Reproduire les erreurs de signe dans une calibration de joint | EN: Reproduce sign errors in joint calibration | ES: Reproducir errores de signo en calibración de articulaciones"
+requires-python = ">=3.11"
+license = "MIT"
+
+[project.scripts]
+joint-calibration-sign-lab = "joint_calibration_sign_lab.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["joint_calibration_sign_lab*"]

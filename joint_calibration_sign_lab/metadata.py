@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Reproduire les erreurs de signe dans une calibration de joint', 'en': 'Reproduce sign errors in joint calibration', 'es': 'Reproducir errores de signo en calibración de articulaciones'}
